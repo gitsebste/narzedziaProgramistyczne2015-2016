@@ -1,0 +1,34 @@
+syndaemon: no process found
+/etc/mdm/Xsession: Beginning session setup...
+localuser:mint being added to access control list
+Script for none started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+Script for none started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+GNOME_KEYRING_CONTROL=/run/user/999/keyring-EOJTJt
+SSH_AUTH_SOCK=/run/user/999/keyring-EOJTJt/ssh
+GPG_AGENT_INFO=/run/user/999/keyring-EOJTJt/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/999/keyring-EOJTJt
+SSH_AUTH_SOCK=/run/user/999/keyring-EOJTJt/ssh
+GPG_AGENT_INFO=/run/user/999/keyring-EOJTJt/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/999/keyring-EOJTJt
+SSH_AUTH_SOCK=/run/user/999/keyring-EOJTJt/ssh
+GPG_AGENT_INFO=/run/user/999/keyring-EOJTJt/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/999/keyring-EOJTJt
+SSH_AUTH_SOCK=/run/user/999/keyring-EOJTJt/ssh
+GPG_AGENT_INFO=/run/user/999/keyring-EOJTJt/gpg:0:1
+
+(mate-power-manager:2687): Gdk-CRITICAL **: IA__gdk_window_thaw_toplevel_updates_libgtk_only: assertion 'private->update_and_descendants_freeze_count > 0' failed
+** Message: Initializing gksu extension...
+Initializing caja-open-terminal extension
+nm-applet-Message: using fallback from indicator to GtkStatusIcon
+/usr/lib/python2.7/dist-packages/gi/overrides/Gtk.py:50: RuntimeWarning: You have imported the Gtk 2.0 module.  Because Gtk 2.0 was not designed for use with introspection some of the interfaces and API will fail.  As such this is not supported by the pygobject development team and we encourage you to port your app to Gtk 3 or greater. PyGTK is the recomended python module to use with Gtk 2.0
+  warnings.warn(warn_msg, RuntimeWarning)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x220002e (mintMenu.p)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+libGL error: pci id for fd 5: 80ee:beef, driver (null)
+OpenGL Warning: Failed to connect to host. Make sure 3D acceleration is enabled for this VM.
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
